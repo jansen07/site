@@ -29,7 +29,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
+disqus:
+    shortname: https-www-jansengoyena-xyz
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -41,3 +42,13 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+author:
+  name             : "Jansen S. Goyena"
+  avatar           : "/assets/img/profile_picture.jpg"
+  bio              : "Works at Novare Technologies as an Associate Software Engineer. Jansen loves to Adventure and travel around the world. but don't have money. He Love and Fears God"
+  location         : "Camarines Sur, Philippines"
+  email            : "jansen.goyena@yahoo.com"
+  website_url      : "https://www.jansengoyena.xyz"
+  facebook         : "https://www.facebook.com/jansen.goyena"
+  github           : "https://github.com/jansen07"
